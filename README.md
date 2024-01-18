@@ -8,6 +8,9 @@ This application allows the user to generate a random password between 8 and 128
 N/A
 
 ## Visuals
+Link to deployed site: 
+https://git-mic.github.io/password-generator/
+
 Images of application appearance and functionality. 
 ![password1](https://github.com/Git-Mic/password-generator/assets/58701184/f7a99f2c-bb36-4716-af1c-e17e7d7d045c)
 ![password2](https://github.com/Git-Mic/password-generator/assets/58701184/91a0fee7-56ef-439f-b665-090194a932c6)
